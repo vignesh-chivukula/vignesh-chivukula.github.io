@@ -18,7 +18,7 @@
   font-weight: 400;
   font-size: 0.8571em;
   line-height: 5.35em;
-  margin: 5px 78px;
+  margin: 5px 18px;
   border: none;
   border-radius: 0.1875rem;
   padding: 11px 22px;
@@ -28,11 +28,12 @@
 }
 
 .btnsend {
+  display: block;
   border-width: 2px;
   font-weight: 400;
   font-size: 0.8571em;
   line-height: 2.35em;
-  margin: 5px 289px;
+  margin: 5px 19px;
   border: none;
   border-radius: 0.1875rem;
   padding: 11px 22px;
